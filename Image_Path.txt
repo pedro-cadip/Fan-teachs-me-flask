@@ -1,0 +1,11 @@
+Parameter,Value
+classes,['CNS_MCCB'@'CNS_CT'@'CNS_DF'@'CNS_PT'@'CNS_INVERTER'@'CNS_TH'@'CNS_MC'@'CNS_RL'@'CNS_TR-L'@'CNS_MC_2'@'CNS_VS_3'@'CNS_DAM'@'CNS_WL'@'CNS_27'@'CNS_DVM'@'CNS_VS_2'@'CNS_ELCB'@'CNS_3E_1'@'CNS_VS_1'@'CNS_V_1'@'CNS_AT'@'CNS_A_1'@'CNS_CR'@'CNS_TR'@'CNS_ELR'@'CNS_PF'@'CNS_SOFT'@'CNS_OFL'@'CNS_PM_1'@'CNS_51G_1'@'CNS_ZCT'@'CNS_KVAR_1'@'CNS_VARH_1'@'CNS_KW_1'@'CNS_KVA_1'@'CNS_KVARH_1'@'CNS_F_1'@'CNS_PF_1'@'CNS_WH_1'@'CNS_KWH_1'@'CNS_KV_1'@'CNS_W_1'@'CNS_WT_1'@'CNS_VA_1'@'CNS_VAR_1'@'CNS_GL'@'CNS_YL'@'CNS_51GS_1'@'CNS_OL'@'CNS_CTT'@'CNS_PTT'@'CNS_Y-Delta'@'CNS_RTD'@'CNS_AS_2'@'CNS_AS_1'@'CNS_DRP'@'CNS_61FG'@'CNS_SAO'@'CNS_NC--06'@'CNS_LTG'@'CNS_86'@'CNS_50'@'CNS_SMC'@'CNS_DF_2'@'CNS_RR'@'CNS_R_1'@'CNS_MS'@'CNS_26'@'COM-01'@'CNS_37'@'CNS_TS'@'CNS_VFD']
+WeightsPath,D:/yolov5-master_20200723/runs/20210218_classes72_672_epoch50/weights/best.pt
+image_input_Path,C:/img/image_input/
+image_output_Path,C:/img/image_output/
+image_output_txt_Path,C:/img/image_output_txt/
+image_output_final_Path,C:/img/image_output_final/
+
+
+
+
